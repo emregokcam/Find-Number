@@ -4,9 +4,22 @@
     border: 1px solid green;
 }
 body {
+    margin: 10px;
+    text-align: center;
     background: url(GuessTheNumber.png);
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
-    /* background-position: center; */
 }
+
+h1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-weight: bold;
+}
+
+
+
+/* .container {
+    width: auto;
+    height: auto;
+} */
